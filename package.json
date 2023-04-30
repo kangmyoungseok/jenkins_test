@@ -18,5 +18,9 @@
   "homepage": "https://github.com/kangmyoungseok/jenkins_test#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
   }
 }
